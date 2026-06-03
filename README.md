@@ -3,9 +3,7 @@
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
-
-
-
+<img width="1280" height="647" alt="image" src="https://github.com/user-attachments/assets/4d52e152-1d0a-411f-80b1-a3440519b3e0" />
 
 # IP ASSIGNMENT:
 <img width="882" height="426" alt="image" src="https://github.com/user-attachments/assets/2577bb16-c248-4042-b457-12595680041e" />
