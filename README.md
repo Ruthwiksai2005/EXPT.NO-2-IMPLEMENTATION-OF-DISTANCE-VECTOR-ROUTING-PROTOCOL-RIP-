@@ -13,6 +13,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 
 # NETWORK DIAGRAM:
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/8b6ad38b-1e1c-4dc6-b35c-b9f5d8e4790c" />
 
 
 # PROCEDURE:
